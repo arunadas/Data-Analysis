@@ -1,7 +1,6 @@
 # Data-source
 I have used https://nextspaceflight.com for webscapping past launch data 
-The code will not run as-is , I have removed the logic of full scrapic and reference to the site
-if you choose to use this script please be mindful of the website you are scrapping 
+The code will not run as-is , I have removed the logic of full scrapping and reference to the site if you choose to use this script please be mindful of the website you are scrapping 
 and try to not overload it.
 
 # Other Data sources
@@ -11,7 +10,7 @@ https://en.wikipedia.org
 
 
 # Data cleaning process
-1 . scrape the data from various sources
+1. scrape the data from various sources
 2. Analyse the columns you want in your data analysis
 3. Remove the columns you don't want to use in your analysis
 4. Further analyse the columns and ensure the quality by following checklist:
