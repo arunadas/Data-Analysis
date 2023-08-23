@@ -30,3 +30,8 @@ Remove handful of duplicated as data quality check
 7. Insert statements where loaded to table usa_disaster.
 Script included
 
+You can find full analysis and more article at below locations:
+
+Medium - https://medium.com/@aruna.das29 
+Hashnode - https://arunadas.hashnode.dev/ 
+
