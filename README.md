@@ -9,6 +9,6 @@ Project - Impact of space launch on humanity
 Date July 25, 2023
 Project - Exploratory analysis on Billion Dollar Disaster USA data from gov 
 
-# Additing Billion Dollar car auction 
+# Adding Billion Dollar car auction 
 Date Sept 18, 2023
 Project - Exploratory analysis of car auctions
