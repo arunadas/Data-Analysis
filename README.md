@@ -5,7 +5,10 @@ Adding all data analysis in this repository
 Date - July 10, 2023 
 Project - Impact of space launch on humanity
 
-# Adding Billion Dollar Disaster USA analysis with temperature data
+# Adding Billion Dollar Disaster USA analysis
 Date July 25, 2023
 Project - Exploratory analysis on Billion Dollar Disaster USA data from gov 
-Also adding context by including climate charts specially temperature anamolies
+
+# Additing Billion Dollar car auction 
+Date Sept 18, 2023
+Project - Exploratory analysis of car auctions

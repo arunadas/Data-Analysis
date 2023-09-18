@@ -1,6 +1,5 @@
-# Adding Billion Dollar Disaster USA analysis with temperature data
+# Adding Billion Dollar Disaster USA analysis
 Billion dollar disaster data is from data.gov
-Climate data source is NOAA gov site
 
 Data cleaning, enhancement - validation steps:
 
